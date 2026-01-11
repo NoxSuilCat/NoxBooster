@@ -1,4 +1,4 @@
-# SiBooster(old NoxBooster) `0.2v(260111Relsed)`
+### SiBooster(old NoxBooster) `0.2v(260111Relsed)`
 very Simplely Shell App&Game Booster
 # How to use this?
 1.Get this [boost.sh](https://github.com/NoxSuilCat/NoxBooster/releases).
